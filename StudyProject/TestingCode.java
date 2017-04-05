@@ -2,8 +2,6 @@ import java.util.*;
 import java.lang.String;
 
 
-// hyello
-
 public class TestingCode {
     public static enum Enum {
         ONE, TWO, THREE
